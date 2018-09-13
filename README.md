@@ -1,2 +1,3 @@
 # Hola-Mundo
 Inicio GitHub
+"La suerte solo favorece a la mente preparada" Issac Asimov... Esta frase sera mi soporte en los proximos meses para el cambio que quiero dar...
